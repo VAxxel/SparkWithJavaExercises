@@ -1,0 +1,5 @@
+{"ip": "192.168.1.10", "usuario": "admin", "accion": "LOGIN", "timestamp": "2024-02-01 10:00:00"}
+{"ip": "10.0.0.5", "usuario": "unknown", "accion": "ERROR", "timestamp": "2024-02-01 10:05:00"}
+{"ip": "192.168.1.12", "usuario": "vince", "accion": "LOGOUT", "timestamp": "2024-02-01 10:10:00"}
+{"ip": "10.0.0.8", "usuario": "hacker", "accion": "ATTEMPT", "timestamp": null}
+{"ip": "192.168.1.10", "usuario": "admin", "accion": "UPLOAD", "timestamp": "2024-02-01 10:15:00"}

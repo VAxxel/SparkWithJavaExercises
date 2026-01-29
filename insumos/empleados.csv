@@ -1,0 +1,6 @@
+id,nombre,apellido,salario,departamento
+101,Juan,Perez,3000,IT
+102,Maria,Gomez,4500,RH
+103,Carlos,,2800,IT
+104,Ana,Ruiz,5000,Finance
+105,Pedro,Sola,3200,IT
