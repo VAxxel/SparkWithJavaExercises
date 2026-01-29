@@ -1,0 +1,4 @@
+{"id_venta":1,"fecha":"2024-01-15","producto":"Teclado","cantidad":2,"precio_unitario":25.5,"Total":51.0}
+{"id_venta":2,"fecha":"2024-01-15","producto":"Mouse","cantidad":0,"precio_unitario":15.0,"Total":0.0}
+{"id_venta":3,"fecha":"2024-01-16","producto":"Monitor","cantidad":1}
+{"id_venta":5,"fecha":"2024-01-17","producto":"Teclado","cantidad":1,"precio_unitario":25.5,"Total":25.5}

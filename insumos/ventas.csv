@@ -1,0 +1,6 @@
+id_venta,fecha,producto,cantidad,precio_unitario
+1,2024-01-15,Teclado,2,25.50
+2,2024-01-15,Mouse,,15.00
+3,2024-01-16,Monitor,1,
+4,,Cable HDMI,5,10.00
+5,2024-01-17,Teclado,1,25.50
