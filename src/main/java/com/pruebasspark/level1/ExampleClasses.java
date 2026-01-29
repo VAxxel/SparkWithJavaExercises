@@ -1,4 +1,4 @@
-package com.pruebasspark;
+package com.pruebasspark.level1;
 
 import org.apache.spark.sql.*;
 import org.apache.spark.sql.types.DataTypes;

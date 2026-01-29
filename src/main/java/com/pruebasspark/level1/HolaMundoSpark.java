@@ -1,4 +1,4 @@
-package com.pruebasspark;
+package com.pruebasspark.level1;
 
 import org.apache.spark.sql.Dataset;
 import org.apache.spark.sql.Row;
@@ -19,7 +19,7 @@ public class HolaMundoSpark {
         System.out.println("--- Iniciando Spark Session ---");
 
         try (var spark = SparkSession.builder()
-                .appName("HolamundoJava17")
+                .appName("HolaMundoSpark")
                 .master("local[*]")
                 .getOrCreate()){
 
