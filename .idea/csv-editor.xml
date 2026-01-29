@@ -24,6 +24,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/salidas/SalidaVentasCsv/part-00000-c2e1bf6e-4ab1-4bd5-9576-000bbabb8850-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/salidas/credencialesEmpleadosCsv/part-00000-f7b1319d-3eff-45f0-8fe7-a7cf722f60b7-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

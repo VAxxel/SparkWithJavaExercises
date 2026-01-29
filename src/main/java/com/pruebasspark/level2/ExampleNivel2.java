@@ -40,7 +40,7 @@ public class ExampleNivel2 {
         System.out.println("--- Salida del CSV ---");
         dfLimpio.write()
                 .mode("overwrite")//El mode Overwrite sobrescribe la carpeta si ya existe, es util para las pruebas
-                .option("header",true)
+                .option("header",true)//Esta opcion nos da los encabezados de la salida del csv
                 .csv("salidas/SalidaVentasCsv");
 
         System.out.println("--- Salida de Json ---");
