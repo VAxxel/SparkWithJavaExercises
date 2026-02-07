@@ -10,6 +10,27 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/insumos/estudiantes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/insumos/keywords.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/insumos/nomina.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/insumos/ventas.csv">
           <value>
             <Attribute>
@@ -17,21 +38,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/salidas/SalidaVentas.csv/part-00000-e0381ed2-85c9-4ff8-9717-30628f2cae1a-c000.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/salidas/SalidaVentasCsv/part-00000-c2e1bf6e-4ab1-4bd5-9576-000bbabb8850-c000.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/salidas/credencialesEmpleadosCsv/part-00000-f7b1319d-3eff-45f0-8fe7-a7cf722f60b7-c000.csv">
+        <entry key="/salidas/credencialesEmpleadosCsv/part-00000-8c1b3e30-3f10-4b6f-8e54-4e78cc507d7c-c000.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
